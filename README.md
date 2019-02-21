@@ -3,7 +3,7 @@ Calculating Car parking time at a parking spot using YOLOv3 and SIFT
 
 * This application calculates the parking time of a car in a particular parking spot using YOLOv3. Just enter the website containing .ts video files in the extractor.py, and run the analyze_cars.py script as shown below and you get the output parking times of the cars in the particular time range.
 
-* Please download YOLOv3 weights from this [link](https://pjreddie.com/media/files/yolov3.weights) as it is required for car detection.
+* Please download YOLOv3 weights from this [link](https://pjreddie.com/media/files/yolov3.weights) and place it in yolo_coco folder, as it is required for car detection.
 
 * Instructions regarding Dependencies
 -------------------------------------
