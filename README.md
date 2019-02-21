@@ -20,19 +20,19 @@ the above requirements
 
 * Download Homebrew by running the below in the Terminal
 
-   > /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+ > /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 * Install Python 3.7 (if not already installed) with the following command in Terminal
 
-brew install python
+ > brew install python
 
 * Install numpy (if not already installed) with the following command in Terminal
 
-brew install numpy
+ > brew install numpy
 
 * Install OpenCV 3.4.3 (with Contrib) with the following command in Terminal
 
-brew install opencv
+ > brew install opencv
 
 Note:
 -----
