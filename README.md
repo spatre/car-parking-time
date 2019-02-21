@@ -20,7 +20,7 @@ the above requirements
 
 * Download Homebrew by running the below in the Terminal
 
-    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   > /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 * Install Python 3.7 (if not already installed) with the following command in Terminal
 
