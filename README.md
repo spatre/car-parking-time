@@ -59,15 +59,24 @@ sample o/p:
 -----------
 
 Beginning files Download...
+
 1538076003.ts
+
 .
 .
 .
 .
+
 Downloading and Extracting images complete!
+
 Analyzing from 1538076003 to 1538078234 using YOLO3
+
 Found Car at 1538076227 parked until 1538077866 for 28 minutes
+
 ... Wrote ../output/1538076227-28min.jpg
+
 Found Car at 1538077954 parked until 1538078194 for 4 minutes
+
 ... Wrote ../output/1538077954-4min.jpg
+
 No More Cars Found!
